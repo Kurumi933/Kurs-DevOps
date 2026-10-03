@@ -1,1 +1,0 @@
-Filozofię DevOps rozumiem jako kulturę pracy w której programiści i DevOpsi ściśle ze sobą współpracuję oraz wspierają się w osiągnięciu współnego celu. Czyli stosując podejście DevOps bariery komunikacyjne i organizacyjne znikają a skupia się na kontakcie i zaufaniu
