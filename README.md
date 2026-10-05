@@ -1,2 +1,2 @@
-# **Repozytorium na prace domowe DevOps**
+# **Repozytorium na kurs DevOps**
 # *Zadania domowe*
